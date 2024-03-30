@@ -15,4 +15,4 @@ HTML
 CSS
 JS
 
-Link: 
+Link: https://tausif148.github.io/Digital-Clock/

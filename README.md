@@ -11,6 +11,7 @@ Support for Multiple Languages: Implementations will be provided in various prog
 
 **Technologies Used**
 The digital clock project will utilize the following technologies:
+
 HTML
 CSS
 JS
